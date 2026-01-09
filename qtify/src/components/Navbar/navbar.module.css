@@ -1,0 +1,8 @@
+.navbarTop{
+    width:100vw;
+    height:74px;
+    background-color: #34C94B;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
