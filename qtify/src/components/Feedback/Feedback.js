@@ -5,7 +5,8 @@ export default function Feedback(){
 
     return(
         <div>
-        <img src = {feedback} alt="feedback" className = {styles.feedbackImage}/> 
+        <button className = {styles.feedback}>Give Feedback</button>    
+        {/* <img src = {feedback} alt="feedback" className = {styles.feedbackImage}/>  */}
         </div>
     );
 }

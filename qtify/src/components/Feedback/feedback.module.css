@@ -1,5 +1,18 @@
-.feedbackImage{
+.feedback{
     height:47px;
     width:170px;
     margin-right: 16px;
+    margin-top: 4px;
+    border-radius: 12px;
+    background-color: #121212;
+    color: #34C94B;
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0.25px;
+
 }
+

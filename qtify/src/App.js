@@ -1,11 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar/Navbar';
-
+import Navbar from './components/Navbar/Navbar.js';
+import Hero from './components/Hero/Hero.js';
 
 function App() {
   return (
-    <><Navbar />
+    <>
+    <Navbar />
+    <Hero/>
     
     </>
   );
